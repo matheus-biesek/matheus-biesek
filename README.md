@@ -84,16 +84,38 @@ Chatbots performáticos integrados com APIs de IA para alta concorrência.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Minhas Especialidades
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biesek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biesek&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biesek&theme=tokyonight" alt="biesek"/>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Desenvolvimento</h3>
+      <p>Full Stack com foco em escalabilidade</p>
+      <p>Microsserviços & Arquitetura distribuída</p>
+      <p>APIs RESTful & GraphQL</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 Automação & IA</h3>
+      <p>Chatbots inteligentes com IA</p>
+      <p>Automação de processos (n8n, Python)</p>
+      <p>Integração com Gemini, Groq AI</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔧 DevOps & Cloud</h3>
+      <p>Docker & Containerização</p>
+      <p>Deploy em AWS, Vercel, Render</p>
+      <p>CI/CD & Monitoramento</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📡 IoT & Hardware</h3>
+      <p>ESP32 & Arduino</p>
+      <p>Sensores & Automação física</p>
+      <p>Integração Hardware + Software</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

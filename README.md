@@ -91,8 +91,8 @@ Chatbots performáticos integrados com APIs de IA para alta concorrência.
     <td align="center" width="50%">
       <h3>💻 Desenvolvimento</h3>
       <p>Full Stack com foco em escalabilidade</p>
-      <p>Microsserviços & Arquitetura distribuída</p>
-      <p>APIs RESTful & GraphQL</p>
+      <p>Arquitetura de Microsserviços</p>
+      <p>APIs RESTful</p>
     </td>
     <td align="center" width="50%">
       <h3>🤖 Automação & IA</h3>
